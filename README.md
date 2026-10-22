@@ -1,2 +1,1 @@
-# DSA-Lab-AY-2026-27-SEA60
-DSA Laboratory Practicals - AY2026-27
+GitHub Repository for DSA Laboratory A.Y. 2026–27 Student Name: Swapnali Prakash Shinde Roll Number: SEA60 Division: S.Y. E&TC - A Batch: D Course Name: Data Structures and Algorithms Lab Academic Year: 2026-27 Faculty Name: Dr. Varshaa Degaonkar
